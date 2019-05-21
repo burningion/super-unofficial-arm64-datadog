@@ -6,4 +6,4 @@ You _should_ be able to install this using just a `sudo dpkg -i <filename>.deb`.
 
 All the files live in the `pkg/` directory.
 
-
+[Grab the deb in the releases tab](https://github.com/burningion/super-unofficial-arm64-datadog/releases/tag/6.11).
