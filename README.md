@@ -4,6 +4,6 @@ I got tired of manually builiding the Agent for my Jetson TX1, TX2, Nano, and Ra
 
 You _should_ be able to install this using just a `sudo dpkg -i <filename>.deb`. If you're running Raspbian it _won't_ work. That's because Raspbian defaults to 32 bits, and this is a 64 bit build.
 
-All the files live in the `pkg/` directory.
+All the build's metadata files live in the `pkg/` directory.
 
 [Grab the deb in the releases tab](https://github.com/burningion/super-unofficial-arm64-datadog/releases/tag/6.11).
